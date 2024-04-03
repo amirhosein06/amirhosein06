@@ -31,5 +31,8 @@
 <div align="center">
 <a href="https://github.com/amirhosein06" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
+</a> 
+<a href="https://www.linkedin.com/in/amirhosein-zolfaghari06/" target="_blank">
+<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>   
+</div>
