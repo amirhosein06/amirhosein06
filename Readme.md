@@ -1,38 +1,43 @@
-# Hey 👋 I'm Amirhossein Zolfaghari 
- 
-  
-
-<br/>  
-
-### <div align="center">Thank You For Visited My Github Page!</div>   
-  
-
 <div align="center">
-<img src="8ixstt.gif" align="center" height="auto" width="50%" />
-</div>  
-  
-
-<br/>  
-
-
-
-###  
-<div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<img src="github-header-image.png" align="center" height="auto" width="100%" />
 </div>  
 
-----
+<div style="display:flex;justify-content: space-between" width="100%"  align="center">
+<div width="70%" height="100%" style="display:flex;flex-decoration: column;align-items: center;">
+<p style="text-align: left;font-size:20px;">I am Amir Hossein, a student from Iran,<br/>
+where I live, the Internet is not very good,<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Shushing%20Face.webp" alt="Shushing Face" width="25" height="25" /><br/>
+but I am very interested in self-learning from the Internet,<br/>
+and every time I encounter a problem, I immediately go to Google.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Relieved%20Face.webp" alt="Relieved Face" width="25" height="25" /></p>
+</div>
+<img src=octocat-1714024780268.png width="30%"/>
+</div>
 
-###    
+![amirhosein06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein06&theme=react&show_icons=true&hide_border=true&layout=compact)
+
 <div align="center">
+
+## Skills
+
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react)](https://skillicons.dev)
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+
+## Contact
 <a href="https://github.com/amirhosein06" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github1.svg alt=github style="margin-bottom: 5px;" />
 </a> 
 <a href="https://www.linkedin.com/in/amirhosein-zolfaghari06/" target="_blank">
-<img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg alt=github style="margin-bottom: 5px;" />
 </a>   
 </div>
+
+<br/>
+<br/>
+<br/>
+<img src=https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif
+ width="100%" style="border-radius: 10px;" />
