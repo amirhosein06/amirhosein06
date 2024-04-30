@@ -3,13 +3,13 @@
 </div>  
 
 <div style="display:flex;justify-content: space-between" width="100%"  align="center">
-<div width="70%" height="100%" style="display:flex;flex-decoration: column;align-items: center;">
+<div width="50%" height="100%" style="display:flex;align-items: center;">
 <p style="text-align: left;font-size:20px;">I am Amir Hossein, a student from Iran,<br/>
 where I live, the Internet is not very good,<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Shushing%20Face.webp" alt="Shushing Face" width="25" height="25" /><br/>
 but I am very interested in self-learning from the Internet,<br/>
 and every time I encounter a problem, I immediately go to Google.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Relieved%20Face.webp" alt="Relieved Face" width="25" height="25" /></p>
 </div>
-<img src=octocat-1714024780268.png width="30%"/>
+<img src=octocat-1714024780268.png width="25%"/>
 </div>
 
 ![amirhosein06's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amirhosein06&theme=react&show_icons=true&hide_border=true&layout=compact)
