@@ -9,7 +9,7 @@ where I live, the Internet is not very good,<img src="https://raw.githubusercont
 but I am very interested in self-learning from the Internet,<br/>
 and every time I encounter a problem, I immediately go to Google.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Relieved%20Face.webp" alt="Relieved Face" width="25" height="25" /></p>
 </div>
-<img src=octocat-1714024780268.png width="25%"/>
+<img align="right" src=octocat-1714024780268.png width="25%"/>
 </div>
 
 <div align="center">
