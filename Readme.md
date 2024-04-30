@@ -4,7 +4,7 @@
 <br/>
 <div style="display:flex;align-items: center;justify-content: space-between;" width="100%"  align="center">
 <div width="50%" height="100%" style="display:flex;align-items: center;">
-<span align="left" style="text-align: left;font-size:20px;display: inline;" width="75%">I am Amir Hossein, a student from Iran,<br/>
+<span align="left" style="text-align: left;font-size:20px;display: inline;" width="70%">I am Amir Hossein, a student from Iran,<br/>
 where I live, the Internet is not very good,<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Shushing%20Face.webp" alt="Shushing Face" width="25" height="25" /><br/>
 but I am very interested in self-learning from the Internet,<br/>
 and every time I encounter a problem, I immediately go to Google.<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Relieved%20Face.webp" alt="Relieved Face" width="25" height="25" /></span>
