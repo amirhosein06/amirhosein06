@@ -2,7 +2,7 @@
 <img src="github-header-image.png" align="center" height="auto" width="100%" />
 </div>  
 <br/>
-<div style="display:flex;justify-content: space-between" width="100%"  align="center">
+<div width="100%"  align="center">
 <div width="50%" height="100%" style="display:flex;align-items: center;">
 <p align="left" style="text-align: left;font-size:20px;">I am Amir Hossein, a student from Iran,<br/>
 where I live, the Internet is not very good,<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Shushing%20Face.webp" alt="Shushing Face" width="25" height="25" /><br/>
