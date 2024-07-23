@@ -22,7 +22,7 @@ and every time I encounter a problem, I immediately go to Google.<img src="https
 ## Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,styledcomponents,js,ts,react)](https://skillicons.dev)
 </div>
 
 <br/>
