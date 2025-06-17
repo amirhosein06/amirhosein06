@@ -4,7 +4,6 @@
 <br/>
 <div style="display:flex;align-items: center;justify-content: space-between;" width="100%"  align="center">
 <div width="50%" height="100%" style="display:flex;align-items: center;">
-<p align="left" style="text-align: left;font-size:20px;display: inline;" width="70%">Focusing ...<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Shushing%20Face.webp" alt="Shushing Face" width="25" height="25" /></p>
 <img src=octocat-1714024780268.png width="25%"/>
 </div>
 </div>
